@@ -7,8 +7,8 @@ This Python script simulates a simple game between Wolves and Villagers. The gam
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/KamilBourouiba/wolf_game
+    cd wolf_game
     ```
 
 2. **Run the script:**
